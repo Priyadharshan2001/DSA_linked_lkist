@@ -17,3 +17,4 @@ class LinkedList:
 ll = LinkedList()
 ll.append(1)
 ll.append(2)
+l1.append(3)
